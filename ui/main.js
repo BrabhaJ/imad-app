@@ -1,4 +1,4 @@
 console.log('Loaded!');
 
-var element = document.getElementbyId('maintext');
+var element = document.getElementById("maintext");
 element.innerHTML = "New txt updated";
