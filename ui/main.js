@@ -1,7 +1,7 @@
 console.log('Loaded!');
 
 var element = document.getElementById("maintext");
-element.innerHTML = "Newwwww txt updated";
+element.innerHTML = "Neww txt updated";
 var marginLeft = 0;
 
 function moveRight(){
