@@ -10,7 +10,7 @@ function moveRight(){
 }
 var img1 = document.getElementById("img1");
 img1.onClick = function() {
-    //img.style.marginLeft = "100px";
+    img1.style.marginLeft = "100px";
     
-    var Interval = setInterval(moveRight, 100);
+   // var Interval = setInterval(moveRight, 100);
 };
